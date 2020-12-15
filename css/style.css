@@ -81,7 +81,7 @@ body {
 /* COMMON */
 
 .tablet-element {
-  display: none !important;
+  display: none;
 }
 
 .desktop-element {
@@ -1088,10 +1088,6 @@ body {
   .front-page-laptop {
     width: 400px;
     margin-bottom: 90px;
-  }
-
-  .front-page-about-me-container {
-    /*align-items: flex-start;*/
   }
 
   .about .container {
