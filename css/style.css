@@ -1091,7 +1091,7 @@ body {
   }
 
   .front-page-about-me-container {
-    align-items: flex-start;
+    /*align-items: flex-start;*/
   }
 
   .about .container {
